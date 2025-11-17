@@ -1,0 +1,12 @@
+<suite name="SmokeSuite">
+    <test name="SmokeTest">
+        <groups>
+            <run>
+                <include name="smoke"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="com.demoqa.test"/>
+        </packages>
+    </test>
+</suite>
