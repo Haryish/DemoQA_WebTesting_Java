@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ad001ab-ca16-4cdc-9646-b0650b23ad72" name="Changes" comment="Integeration to GitAction initiated">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/health_check.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/health_check.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3ad001ab-ca16-4cdc-9646-b0650b23ad72" name="Changes" comment="Debugged YAML File-2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,7 +156,7 @@
       <workItem from="1763440085796" duration="5967000" />
       <workItem from="1763446300506" duration="1078000" />
       <workItem from="1763448885943" duration="1124000" />
-      <workItem from="1763467231831" duration="4436000" />
+      <workItem from="1763467231831" duration="4807000" />
     </task>
     <task id="LOCAL-00001" summary="Proper E2E Run Initiated">
       <option name="closed" value="true" />
@@ -185,7 +182,23 @@
       <option name="project" value="LOCAL" />
       <updated>1763475174746</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Debugged YAML File">
+      <option name="closed" value="true" />
+      <created>1763476129019</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763476129019</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Debugged YAML File-2">
+      <option name="closed" value="true" />
+      <created>1763476347715</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763476347715</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,7 +219,9 @@
     <MESSAGE value="Intial TestNG Selenium Framework" />
     <MESSAGE value="Proper E2E Run Initiated" />
     <MESSAGE value="Integeration to GitAction initiated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Integeration to GitAction initiated" />
+    <MESSAGE value="Debugged YAML File" />
+    <MESSAGE value="Debugged YAML File-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Debugged YAML File-2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
