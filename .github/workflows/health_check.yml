@@ -20,14 +20,14 @@ jobs:
           distribution: 'temurin'
           java-version: '23'
 
-      - name: Cache Maven Dependancies
+      - name: Cache Maven Dependencies
         uses: actions/cache@v3
         with:
           path: ~/.m2
           key: ${{runner.os}}-m2-${{hashFiles('**/pom.xml')}}
 
-      - name: Run Maven Tests
-        uses: mvn clean test
+      - name:  Run Maven Tests
+        run:  mvn clean test
 
       - name: Upload Allure Report Results
         uses: actions/upload-artifact@v4
