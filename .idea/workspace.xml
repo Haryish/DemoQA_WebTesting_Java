@@ -20,35 +20,44 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Haryish/DemoQA_WebTesting_Java.git",
+    "accountId": "63994a4f-a86e-431b-b85d-b42189c29e6a"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="35agfHBs5p1EkV0RWGMWWS50QVA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TestNG.C:/Users/Lenova/IdeaProjects/DemoQATestingJava/testng/healthCheck.xml.executor": "Run",
-    "TestNG.C:/Users/Lenova/IdeaProjects/DemoQATestingJava/testng/smokeTest.xml.executor": "Run",
-    "TestNG.C:/Users/Lenova/IdeaProjects/DemoQATestingJava/testng/testng_base.xml.executor": "Run",
-    "TestNG.HomePageTest.MOD_01_TS_001_ValidateTextInputSubmission.executor": "Run",
-    "TestNG.HomePageTest.executor": "Run",
-    "TestNG.MOD01_Elements.MOD_01_TS_001_ValidateTextInputSubmission.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Lenova/IdeaProjects/DemoQATestingJava/src/main/java/com/demoqa/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/Lenova/IdeaProjects/DemoQATestingJava/testng/healthCheck.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/Lenova/IdeaProjects/DemoQATestingJava/testng/smokeTest.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/Lenova/IdeaProjects/DemoQATestingJava/testng/testng_base.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomePageTest.MOD_01_TS_001_ValidateTextInputSubmission.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomePageTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MOD01_Elements.MOD_01_TS_001_ValidateTextInputSubmission.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Lenova/IdeaProjects/DemoQATestingJava/src/main/java/com/demoqa/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Lenova\IdeaProjects\DemoQATestingJava\testng" />
@@ -58,6 +67,15 @@
     </key>
   </component>
   <component name="RunManager" selected="TestNG.MOD01_Elements.MOD_01_TS_001_ValidateTextInputSubmission">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
     <configuration name="C:/Users/Lenova/IdeaProjects/DemoQATestingJava/testng/healthCheck.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="DemoQATestingJava" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng/healthCheck.xml" />
@@ -155,6 +173,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Intial TestNG Selenium Framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Intial TestNG Selenium Framework" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -166,7 +188,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/demoqa/factory/DriverFactory.java</url>
           <line>13</line>
-          <properties class="com.demoqa.factory.DriverFactory" method="quitDriver">
+          <properties class="com.demoqa.factory.DriverFactory">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>

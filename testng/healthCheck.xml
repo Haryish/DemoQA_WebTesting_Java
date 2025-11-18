@@ -1,0 +1,12 @@
+<suite name="HealthCheckSuite">
+    <test name="HealthCheck">
+        <groups>
+            <run>
+                <include name="healthCheck"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="com.demoqa.test"/>
+        </packages>
+    </test>
+</suite>
