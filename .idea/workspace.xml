@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ad001ab-ca16-4cdc-9646-b0650b23ad72" name="Changes" comment="" />
+    <list default="true" id="3ad001ab-ca16-4cdc-9646-b0650b23ad72" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/demoqa/test/MOD01_Elements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/demoqa/test/MOD01_Elements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/demoqa/test/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/demoqa/test/MOD01_Elements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/demoqa/test/MOD01_Elements.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,15 +29,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {}
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Haryish/DemoQA_WebTesting_Java.git",
-    "accountId": "63994a4f-a86e-431b-b85d-b42189c29e6a"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Haryish/DemoQA_WebTesting_Java.git&quot;,
+    &quot;accountId&quot;: &quot;63994a4f-a86e-431b-b85d-b42189c29e6a&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -39,117 +48,102 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Maven.DemoQATestingJava [test].executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.BaseTestNG.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.C:/Users/Lenova/IdeaProjects/DemoQATestingJava/testng/healthCheck.xml.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.C:/Users/Lenova/IdeaProjects/DemoQATestingJava/testng/smokeTest.xml.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.C:/Users/Lenova/IdeaProjects/DemoQATestingJava/testng/testng_base.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DemoQA BaseTest.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.HomePageTest.MOD_01_TS_001_ValidateTextInputSubmission.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.HomePageTest.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.MOD01_Elements.MOD_01_TS_001_ValidateTextInputSubmission.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;TestNG.MOD01_Elements.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenova/IdeaProjects/DemoQATestingJava/testng&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Lenova/IdeaProjects/DemoQATestingJava/src/main/java/com/demoqa/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenova\IdeaProjects\DemoQATestingJava\testng" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenova\IdeaProjects\DemoQATestingJava\target" />
+      <recent name="C:\Users\Lenova\IdeaProjects\DemoQATestingJava" />
       <recent name="C:\Users\Lenova\IdeaProjects\DemoQATestingJava\testng" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.demoqa.base" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.MOD01_Elements.MOD_01_TS_001_ValidateTextInputSubmission">
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
+  <component name="RunManager" selected="Maven.DemoQATestingJava [test]">
+    <configuration name="DemoQATestingJava [test]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
       <method v="2" />
     </configuration>
-    <configuration name="C:/Users/Lenova/IdeaProjects/DemoQATestingJava/testng/healthCheck.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DemoQA BaseTest" type="TestNG">
       <module name="DemoQATestingJava" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng/healthCheck.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <shortenClasspath name="NONE" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/Lenova/IdeaProjects/DemoQATestingJava/testng/smokeTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="DemoQATestingJava" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng/smokeTest.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/Lenova/IdeaProjects/DemoQATestingJava/testng/testng_base.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="DemoQATestingJava" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng/testng_base.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MOD01_Elements" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="DemoQATestingJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.demoqa.base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.demoqa.test" />
-      <option name="MAIN_CLASS_NAME" value="com.demoqa.test.MOD01_Elements" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MOD01_Elements.MOD_01_TS_001_ValidateTextInputSubmission" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="DemoQATestingJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.demoqa.base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.demoqa.test" />
-      <option name="MAIN_CLASS_NAME" value="com.demoqa.test.MOD01_Elements" />
-      <option name="METHOD_NAME" value="MOD_01_TS_001_ValidateTextInputSubmission" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="TestNG.MOD01_Elements.MOD_01_TS_001_ValidateTextInputSubmission" />
-        <item itemvalue="TestNG.C:/Users/Lenova/IdeaProjects/DemoQATestingJava/testng/testng_base.xml" />
-        <item itemvalue="TestNG.C:/Users/Lenova/IdeaProjects/DemoQATestingJava/testng/healthCheck.xml" />
-        <item itemvalue="TestNG.C:/Users/Lenova/IdeaProjects/DemoQATestingJava/testng/smokeTest.xml" />
-        <item itemvalue="TestNG.MOD01_Elements" />
-      </list>
-    </recent_temporary>
+    <list>
+      <item itemvalue="Maven.DemoQATestingJava [test]" />
+      <item itemvalue="TestNG.DemoQA BaseTest" />
+    </list>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -167,11 +161,26 @@
       <option name="presentableId" value="Default" />
       <updated>1763353702915</updated>
       <workItem from="1763353706254" duration="13393000" />
+      <workItem from="1763438525040" duration="1512000" />
+      <workItem from="1763440085796" duration="5967000" />
+      <workItem from="1763446300506" duration="1078000" />
+      <workItem from="1763448885943" duration="911000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Intial TestNG Selenium Framework" />
@@ -188,7 +197,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/demoqa/factory/DriverFactory.java</url>
           <line>13</line>
-          <properties class="com.demoqa.factory.DriverFactory">
+          <properties class="com.demoqa.factory.DriverFactory" method="quitDriver">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -196,5 +205,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DemoQATestingJava$BaseTestNG.ic" NAME="BaseTestNG Coverage Results" MODIFIED="1763444779235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>
