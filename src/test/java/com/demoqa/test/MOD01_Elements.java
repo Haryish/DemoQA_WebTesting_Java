@@ -25,7 +25,7 @@ public class MOD01_Elements extends BaseTest {
         Assert.assertTrue(driver.getCurrentUrl().contains("demoqa.com"));
     }
 
-    @Test(enabled = false)
+    @Test(groups = {"healthCheck"})
     public void PRECHECK_03_verifyLogoIsDisplayed() {
         Assert.assertTrue(driver.findElement(By.id("app")).isDisplayed());
     }

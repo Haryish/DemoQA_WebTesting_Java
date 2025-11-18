@@ -5,8 +5,10 @@
                 <include name="healthCheck"/>
             </run>
         </groups>
-        <packages>
-            <package name="com.demoqa.test"/>
-        </packages>
+        <listeners>
+            <listener
+                class-name="io.qameta.allure.testng.AllureTestNg"
+            />
+        </listeners>
     </test>
 </suite>
