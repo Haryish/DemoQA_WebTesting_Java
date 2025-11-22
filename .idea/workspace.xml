@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ad001ab-ca16-4cdc-9646-b0650b23ad72" name="Changes" comment="Debugged YAML File-3" />
+    <list default="true" id="3ad001ab-ca16-4cdc-9646-b0650b23ad72" name="Changes" comment="Debugged YAML File-3.1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/demoqa/test/MOD01_Elements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/demoqa/test/MOD01_Elements.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +86,7 @@
       <recent name="com.demoqa.base" />
     </key>
   </component>
-  <component name="RunManager" selected="Maven.DemoQATestingJava [test]">
+  <component name="RunManager" selected="TestNG.C:/Users/Lenova/IdeaProjects/DemoQATestingJava/testng/smokeTest.xml">
     <configuration name="DemoQATestingJava [test]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -113,6 +117,16 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
+    <configuration name="C:/Users/Lenova/IdeaProjects/DemoQATestingJava/testng/smokeTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoQATestingJava" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng/smokeTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoQA BaseTest" type="TestNG">
       <module name="DemoQATestingJava" />
       <shortenClasspath name="NONE" />
@@ -134,7 +148,13 @@
     <list>
       <item itemvalue="Maven.DemoQATestingJava [test]" />
       <item itemvalue="TestNG.DemoQA BaseTest" />
+      <item itemvalue="TestNG.C:/Users/Lenova/IdeaProjects/DemoQATestingJava/testng/smokeTest.xml" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Lenova/IdeaProjects/DemoQATestingJava/testng/smokeTest.xml" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -156,7 +176,10 @@
       <workItem from="1763440085796" duration="5967000" />
       <workItem from="1763446300506" duration="1078000" />
       <workItem from="1763448885943" duration="1124000" />
-      <workItem from="1763467231831" duration="5138000" />
+      <workItem from="1763467231831" duration="6833000" />
+      <workItem from="1763818398395" duration="5819000" />
+      <workItem from="1763835725437" duration="39000" />
+      <workItem from="1763835807033" duration="89000" />
     </task>
     <task id="LOCAL-00001" summary="Proper E2E Run Initiated">
       <option name="closed" value="true" />
@@ -206,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763476617543</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Debugged YAML File-3.1">
+      <option name="closed" value="true" />
+      <created>1763476709016</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1763476709016</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,7 +261,8 @@
     <MESSAGE value="Debugged YAML File" />
     <MESSAGE value="Debugged YAML File-2" />
     <MESSAGE value="Debugged YAML File-3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Debugged YAML File-3" />
+    <MESSAGE value="Debugged YAML File-3.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Debugged YAML File-3.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
