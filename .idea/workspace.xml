@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3ad001ab-ca16-4cdc-9646-b0650b23ad72" name="Changes" comment="Corrected JenkinsFile for CI deployment-1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng/healthCheck.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng/healthCheck.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +179,7 @@
       <workItem from="1763467231831" duration="6833000" />
       <workItem from="1763818398395" duration="5819000" />
       <workItem from="1763835725437" duration="39000" />
-      <workItem from="1763835807033" duration="1352000" />
+      <workItem from="1763835807033" duration="2819000" />
     </task>
     <task id="LOCAL-00001" summary="Proper E2E Run Initiated">
       <option name="closed" value="true" />
@@ -260,7 +261,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763836691944</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Corrected JenkinsFile for CI deployment-1">
+      <option name="closed" value="true" />
+      <created>1763837199813</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1763837199813</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
