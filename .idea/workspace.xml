@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ad001ab-ca16-4cdc-9646-b0650b23ad72" name="Changes" comment="Corrected JenkinsFile for CI deployment" />
+    <list default="true" id="3ad001ab-ca16-4cdc-9646-b0650b23ad72" name="Changes" comment="Corrected JenkinsFile for CI deployment-1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,7 +178,7 @@
       <workItem from="1763467231831" duration="6833000" />
       <workItem from="1763818398395" duration="5819000" />
       <workItem from="1763835725437" duration="39000" />
-      <workItem from="1763835807033" duration="555000" />
+      <workItem from="1763835807033" duration="1352000" />
     </task>
     <task id="LOCAL-00001" summary="Proper E2E Run Initiated">
       <option name="closed" value="true" />
@@ -249,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763836374002</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Corrected JenkinsFile for CI deployment-1">
+      <option name="closed" value="true" />
+      <created>1763836691944</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1763836691944</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,7 +287,8 @@
     <MESSAGE value="Debugged YAML File-3.1" />
     <MESSAGE value="Added JenkinsFile for CI deployment" />
     <MESSAGE value="Corrected JenkinsFile for CI deployment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrected JenkinsFile for CI deployment" />
+    <MESSAGE value="Corrected JenkinsFile for CI deployment-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrected JenkinsFile for CI deployment-1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

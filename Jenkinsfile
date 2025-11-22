@@ -14,9 +14,16 @@ pipeline {
             }
         }
 
+        stage('Debug TestNG Files'){
+            steps{
+                bat "dir"
+                bat "dir testng"
+            }
+        }
+
         stage('Run TestNG - HealthCheck') {
             steps {
-                bat 'mvn clean test -DsuiteXmlFile=testng/healthCheck.xml'
+                bat 'mvn clean test -DsuiteXmlFile=./testng/healthCheck.xml'
             }
         }
 
