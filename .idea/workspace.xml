@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ad001ab-ca16-4cdc-9646-b0650b23ad72" name="Changes" comment="Debugged YAML File-3.1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/demoqa/test/MOD01_Elements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/demoqa/test/MOD01_Elements.class" afterDir="false" />
-    </list>
+    <list default="true" id="3ad001ab-ca16-4cdc-9646-b0650b23ad72" name="Changes" comment="Added JenkinsFile for CI deployment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,7 +175,7 @@
       <workItem from="1763467231831" duration="6833000" />
       <workItem from="1763818398395" duration="5819000" />
       <workItem from="1763835725437" duration="39000" />
-      <workItem from="1763835807033" duration="89000" />
+      <workItem from="1763835807033" duration="459000" />
     </task>
     <task id="LOCAL-00001" summary="Proper E2E Run Initiated">
       <option name="closed" value="true" />
@@ -237,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763476709016</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added JenkinsFile for CI deployment">
+      <option name="closed" value="true" />
+      <created>1763836208774</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1763836208774</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,7 +266,8 @@
     <MESSAGE value="Debugged YAML File-2" />
     <MESSAGE value="Debugged YAML File-3" />
     <MESSAGE value="Debugged YAML File-3.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Debugged YAML File-3.1" />
+    <MESSAGE value="Added JenkinsFile for CI deployment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added JenkinsFile for CI deployment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
