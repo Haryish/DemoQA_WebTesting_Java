@@ -16,7 +16,7 @@ pipeline {
 
         stage('Run TestNG - HealthCheck') {
             steps {
-                sh 'mvn clean test -DsuiteXmlFile=testng/healthCheck.xml'
+                bat 'mvn clean test -DsuiteXmlFile=testng/healthCheck.xml'
             }
         }
 
